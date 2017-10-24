@@ -1,0 +1,71 @@
+Automated Testing (113 points)
+===============================
++ AbstractSorter			(23)
+	- File Constructor				(8)
+	- Points Constructor			(5)
+	- stats							(5)
+	- toString						(5)
++ InsertionSorter			(12)
+	- sort							(12)
++ SelectionSorter			(12)
+	- sort							(12)
++ QuickSorter				(20)
+	- sort							(20)
++ MergeSorter				(20)
+	- sort							(20)
++ Point						(6)
+	- compareTo						(4)
+	- toString						(2)
++ PolarAngleComparator		(15)
+	- compare						(5)
+	- comparePolarAngle				(5)
+	- compareDistance				(5)
++ CompareSorters			(5)
+	- generateRandomPoints			(5)
+
+Manual Tests (37 points)
+=========================
++ Documentation/Style		(10)
+	- Javadoc 						(3)
+	- author tag					(3)
+	- Style							(4)
+		- variable names
+		- use swap method
+		- call super constructors
++ Zip Structure				(2)
+	- zip file, package structure	(2)
++ Code						(25)
+	- main method					(7)
+	- writePointsToFile				(2)
+	- setComparator					(6)
+	- draw							(10)
+
+TEMPLATE FOR GRADING:
+!!ONLY GIVE THEM THIS BELOW!!
+=============================
+
+-----------------------------
+HW 2 Grade
+Graded By: [YOUR NAME HERE]
+Email: [YOUR EMAIL HERE]
+Office Hours: [YOUR OFFICE HOURS FROM SYLLABUS]
+-----------------------------
+Automated Test Output:
+[PUT OUTPUT HERE]
+
+Automated Tests
+ = / 113
+ Issues:
+ +
+
+Manual checks
+ = / 37
+  Issues:
+ +
+
+TOTAL GRADE
+ = 00/150
+
+-----------------------------
+Comments:
+ +

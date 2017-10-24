@@ -10,5 +10,19 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
-# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
-# gradle/wrapper/gradle-wrapper.properties
+/HW1/
+.settings
+*/bin/
+*/build/
+.DS_Store
+*/.classpath
+*/.project
+*/__pycache__/
+*/counters/shouldUpdate.txt
+*/counters/student_counter.txt
+*/Errors/
+*/HW2_Submissions_unzipped
+*/HW2_Submissions/*
+!HW2/HW2_Submissions/.gitkeep
+HW_Student/src/main/java/edu/iastate/cs228/hw2/*
+!HW_Student/src/main/java/edu/iastate/cs228/hw2/.gitkeep
