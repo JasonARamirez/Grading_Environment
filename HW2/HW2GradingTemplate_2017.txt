@@ -46,9 +46,9 @@ TEMPLATE FOR GRADING:
 
 -----------------------------
 HW 2 Grade
-Graded By: [YOUR NAME HERE]
-Email: [YOUR EMAIL HERE]
-Office Hours: [YOUR OFFICE HOURS FROM SYLLABUS]
+Graded By: Arnoldo Montoya-Gamez
+Email: Amontoya@iastate.edu
+Office Hours: T 3:00-4:00, Th 5:00-6:00
 -----------------------------
 Automated Test Output:
 [PUT OUTPUT HERE]

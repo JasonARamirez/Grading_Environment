@@ -26,3 +26,5 @@ gradle-app.setting
 !HW2/HW2_Submissions/.gitkeep
 HW_Student/src/main/java/edu/iastate/cs228/hw2/*
 !HW_Student/src/main/java/edu/iastate/cs228/hw2/.gitkeep
+/.metadata/
+HW_Test/src/main/java/edu/iastate/cs228/*
