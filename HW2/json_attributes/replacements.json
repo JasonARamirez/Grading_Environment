@@ -1,6 +1,0 @@
-{
-  "AbstractSorter":{
-    "toBeReplaced":["protected void swap","private void swap"],
-    "replacors":["public void swap", "public void swap"]
-  }
-}

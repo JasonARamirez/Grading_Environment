@@ -1,0 +1,80 @@
+Automated Testing (200 points)
+==============================
++ AdaptiveList                         (130)
+    - Adaptive List(Collection<?> c)           (4)
+    - size                                     (1)
+    - isEmpty                                  (1)
+    - add(E obj)                               (11)
+    - addAll(Collection<> c)                   (4)
+    - remove(Object obj)                       (11)
+    - add(int pos, E obj)                      (11)
+    - addAll(int pos, Collection<> c)          (5)
+    - remove(int pos)                          (11)
+    - get(int pos)                             (14)
+    - set(int pos, E obj)                      (14)
+    - contains(Object obj)                     (6)
+    - containsAll(Collection<> c)              (4)
+    - indexOf(Object o)                        (5)
+    - lastIndexOf(Object o)                    (5)
+    - removeAll(Collection<> c)                (6)
+    - retainAll(Collection<> c)                (6)
+    - toArray()                                (2)
+    - toArray(T[] array)                       (4)
+    - reverse()                                (5)
+
++ AdaptiveListIterator                 (60)
+    - Constructor                              (2)
+    - Constructor(pos)                         (5)
+    - hasNext()                                (4)
+    - next()                                   (7) 
+    - hasPrevious()                            (4)
+    - previous()                               (7)
+    - nextIndex()                              (2)
+    - previousIndex()                          (2)
+    - remove()                                 (9)
+    - add(E obj)                               (9)
+    - set(E obj)                               (9)
+
+
+Manual Testing (15 points)
+==========================
+
++ Documentation/Style    (15)
+    - Javadoc and comments      (5)
+    - @author annotations       (5)
+	- zip file, package name    (5)
+
+NOTES: 
+  You will need to make the ListNode class public for the tests to run.
+  
+  The tests look pretty redundant because I tried to separate the tests into two parts: testing that the code works correctly, and testing internal state is correct. 
+
+TEMPLATE FOR GRADING:
+!!ONLY GIVE THEM THIS BELOW!!
+=============================
+
+-----------------------------
+HW 3 Grade
+Graded By: [your name]
+Email: [your email]
+Office Hours: [office hours from syllabus]
+-----------------------------
+Automated Test Output:
+[PUT OUTPUT HERE]
+
+Automated Tests
+ = / 185
+ Issues:
+ +
+ 
+Manual checks
+ = / 15 
+  Issues:
+ +
+
+TOTAL GRADE
+ = 00/200
+ 
+-----------------------------
+Comments:
+ +
